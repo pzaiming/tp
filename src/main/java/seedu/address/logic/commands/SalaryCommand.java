@@ -7,7 +7,7 @@ import seedu.address.model.job.Order;
 import static java.util.Objects.requireNonNull;
 
 /**
- * Sort a role based on the salary in asc/desc order.
+ * Sort a role based on the salary in asc or desc order.
  */
 public class SalaryCommand extends Command {
 

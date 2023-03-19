@@ -91,5 +91,5 @@ public interface Model {
      * Display the RoleList.
      * @throws NullPointerException if {@code list} is null.
      */
-    void displaySortedRoleList(Order order);
+    void displaySortedSalaryList(Order order);
 }
